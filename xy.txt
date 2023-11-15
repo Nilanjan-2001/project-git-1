@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-new add
-=======
 ghHj
->>>>>>> fbe963c4201e76e88c5ea1d21c35dda78b232f9f
+sher
+sher2
